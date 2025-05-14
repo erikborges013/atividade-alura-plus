@@ -75,3 +75,36 @@ body {
     color: var(--cinza-secundario);
 }
 
+.secundario__imagem {
+    width: 80%;
+}
+
+.secundario {
+    align-items: center;
+    margin: 0 10em;
+}
+
+.descricao__titulo {
+    font-family: var(--fonte-principal);
+    font-weight: 700;
+    color: var(--branco-principal);
+    font-size: 3rem;
+    margin-bottom: 0.1em;
+}
+
+.descricao__texto {
+    font-family: var(--fonte-principal);
+    font-weight: 400;
+    font-size: 1rem;
+    color: var(--branco-principal);
+}
+
+.terciario {
+    align-items: center;
+    margin: 0 10em;
+}
+
+.botao__terciario {
+    
+
+}
