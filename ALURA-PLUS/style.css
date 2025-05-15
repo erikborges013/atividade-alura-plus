@@ -99,12 +99,38 @@ body {
     color: var(--branco-principal);
 }
 
-.terciario {
-    align-items: center;
-    margin: 0 10em;
+.secundario__botao {
+    display: inline-block;
+    margin-top: 1em;
 }
 
-.botao__terciario {
-    
+.container__descricao {
+    padding: 2em;
+}
 
+.secundario__titulo {
+    text-align: center;
+}
+
+.dispositivos__lista {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 5em 0;
+}
+
+.dispositivos {
+    text-align: center;
+}
+
+.dispositivos__titulo {
+    font-size: 3rem;
+    color: var(--branco-principal);
+    font-family: var(--fonte-principal);
+}
+
+.lista__item {
+    font-size: 2rem;
+    color: var(--branco-principal);
+    font-family: var(--fonte-principal);
 }
